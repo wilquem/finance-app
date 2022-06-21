@@ -1,4 +1,4 @@
-# finance-app
+# finance-app (sem back-end)
 
 <h1>DTMoney</h1>
 
